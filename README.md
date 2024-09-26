@@ -3,9 +3,8 @@ Code for our GenerCTC
 # Requirements
 
 ```
-python 3.6.2
-torch 1.4.0
-tensorflow 1.14.0
+python 3.8.19
+torch 1.12.1+cu116
 ```
 For detailed dependencies, please refer to requirements.txt
 
