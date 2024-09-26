@@ -1,0 +1,4 @@
+{
+    "model": "../../model/encoder/bert-base-uncased",
+    "embedding_size": 768
+}

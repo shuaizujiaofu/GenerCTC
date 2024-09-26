@@ -1,0 +1,8 @@
+{
+    "tensorboard_path": "../../data/tensorboard/ctc/clinc",
+    "save_path": "../../data/checkpoints/ctc/clinc/",
+    "labels_dict_path": "../../data/preprocessed/clinc/labels_dict.pkl",
+    "data_path": "../../data/datasets/clinc",
+    "categories_path": "../../data/datasets/clinc/categories.json",
+    "num_labels": 150
+}

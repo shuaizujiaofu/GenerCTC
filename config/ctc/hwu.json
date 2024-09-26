@@ -1,0 +1,8 @@
+{
+    "tensorboard_path": "../../data/tensorboard/ctc/hwu",
+    "save_path": "../../data/checkpoints/ctc/hwu/",
+    "labels_dict_path": "../../data/preprocessed/hwu/labels_dict.pkl",
+    "data_path": "../../data/datasets/hwu",
+    "categories_path": "../../data/datasets/hwu/categories.json",
+    "num_labels": 64
+}

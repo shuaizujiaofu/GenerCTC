@@ -1,0 +1,4 @@
+{
+    "model": "../../model/encoder/MiniLM-L12-H384-uncased",
+    "embedding_size": 384
+}

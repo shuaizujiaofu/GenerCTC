@@ -1,0 +1,4 @@
+{
+    "model": "../../model/encoder/roberta-base",
+    "embedding_size": 768
+}

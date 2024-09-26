@@ -1,0 +1,8 @@
+{
+    "tensorboard_path": "../../data/tensorboard/ctc/banking",
+    "save_path": "../../data/checkpoints/ctc/banking/",
+    "labels_dict_path": "../../data/preprocessed/banking/labels_dict.pkl",
+    "data_path": "../../data/datasets/banking",
+    "categories_path": "../../data/datasets/banking/categories.json",
+    "num_labels": 77
+}
